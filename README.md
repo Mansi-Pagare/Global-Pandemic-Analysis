@@ -1,4 +1,5 @@
 #Global Footprint of Historical Disease Outbreaks: Data Visualization Project#
+![image](https://github.com/user-attachments/assets/3f1a5365-18a9-4f17-91a3-55cb8b0b9d25)
 
 https://public.tableau.com/shared/S7Z7NC3RY?:display_count=n&:origin=viz_share_link
 
