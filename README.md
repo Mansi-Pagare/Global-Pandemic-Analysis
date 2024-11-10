@@ -29,5 +29,3 @@ Tools and Technologies
     Python: Used for data preprocessing, cleaning, and enrichment tasks, including creating calculated fields and handling missing values.
     Tableau: Used for building the interactive visualizations such as maps, treemaps, bar charts, and timelines.
     Excel: Initially used for cleaning and organizing the data before importing it into Tableau.
-
-All related files are shared in this repo.
